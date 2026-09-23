@@ -1,4 +1,4 @@
-# 🔢 Blackkat Roman Numeral Converter
+# 🔢 Blackkat | Roman Numeral Converter
 
 ## 📖 Overview
 This project was part of my FreeCodeCamp JavaScript Algorithms and Data Structures certification curriculum. Where I built a Roman Numeral Converter using HTML, CSS, and JavaScript. The project was created to practice JavaScript algorithms, conditional logic, and string manipulation, while also reinforcing my HTML and CSS skills for building the interface. 

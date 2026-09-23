@@ -148,3 +148,12 @@ body {
   font-size: 0.9rem;
   color: white;
 }
+
+.ftr-link {
+  font-size: 1rem;
+  color: white;
+}
+
+.ftr-link:hover {
+  color: lime;
+}
